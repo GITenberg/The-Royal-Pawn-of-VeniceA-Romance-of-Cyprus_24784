@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '3543'
     url: http://www.gutenberg.org/2009/agents/3543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24784#The-Royal-Pawn-of-VeniceA-Romance-of-Cyprus
 gutenberg_issued: '2008-03-08'
 gutenberg_type: Text
 identifiers:
